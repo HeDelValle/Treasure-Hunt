@@ -1,0 +1,40 @@
+.wEeb {
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.Weeb {
+    display: none;
+    
+    margin: 40px;
+
+
+}
+
+.Words2 {
+    display: none;
+}
+
+.Finale {
+    display: none;
+    width: 190px;
+}
+
+body {
+    background: url("https://i.pinimg.com/originals/22/88/cf/2288cf2a84c8d3ea4de72b0b0e4e4252.jpg");
+    font-size: 55px;
+}
+
+img {
+    height: 450px;
+    width: 450px;
+    border: solid #33aba5 5px;
+}
+
+.stop { 
+        display:flex;
+        justify-content:center;
+}
